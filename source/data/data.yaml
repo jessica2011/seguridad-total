@@ -1,0 +1,14 @@
+tituloCNE: Lienzo en blanco
+tituloPagina: Lienzo en blanco
+urlCMS: http://cms.movistar.com.pe/web/guest-staging/movil/
+variante: Variante principal
+version: 000292
+ubiContenido: Inicio/2. Hogar/2.1. Productos/2.1.5. Transversal/Landing-PagoAdelantado
+ubiMultimedia: Inicio/2. Hogar/2.1. Productos/2.1.4. Transversal/Landing-PagoAdelantado
+external: //servicios.movistar.com.pe/filesPagoAdelantado/
+comentarios: Comentarios de prueba
+# http://yaml.org/type/map.html -----------------------------------------------#
+
+# http://yaml.org/type/timestamp.html -----------------------------------------#
+timestamp:
+  canonical: 2001-12-15T02:59:43.1Z
